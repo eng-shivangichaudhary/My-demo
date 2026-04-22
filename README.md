@@ -1,3 +1,3 @@
 # My-demo
-This is my first repository ฅ⁠^⁠•⁠ﻌ⁠•⁠^⁠ฅ
-Author - Shivangi Chaudhary 
+This is my first repository ฅ⁠^⁠•⁠ﻌ⁠•⁠^⁠ฅ <br>
+Author - Shivangi Chaudhary  
